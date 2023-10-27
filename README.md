@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Contact Me
 
-- ✉️ Email: <ch3197@qq.com> / <chenghao.hfut@gmail.com>
+- ✉️ Email: <ch3197@qq.com> / <chenghao@mail.hfut.edu.cn>
 - 🌐 Personal Website: do not have one yet
 
 I'm a student with a strong interest in multimodal emotion recognition and computer vision. I'm eager to learn and explore these fields, and I'm open to connecting with others who share similar interests. Let's learn and grow together! 😊
