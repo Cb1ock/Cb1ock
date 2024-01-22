@@ -21,23 +21,12 @@ Here are some ideas to get you started:
 - 📚 Student: Passionate about Deep Learning and Research
 - 🎓 Academic Focus: Computer Vision and Multimodal Emotion Recognition
 
-## Learning Interests
-
-- 🧠 Deep Learning
-- 📷 Computer Vision
-- 😃 Multimodal Emotion Recognition
-- 🗣️ Natural Language Processing
-- 🤖 Machine Learning
-
-## Currently Learning
-
-- 📖 Exploring the foundations of deep learning
-- 💻 Building skills in Python, Numpy, and PyTorch
-- 📚 Studying relevant academic papers and resources
-
 ## Contact Me
 
 - ✉️ Email: <ch3197@qq.com> / <chenghao@mail.hfut.edu.cn>
-- 🌐 Personal Website: do not have one yet
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cb1ock&show_icons=true&theme=transparent&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cb1ock&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a student with a strong interest in multimodal emotion recognition and computer vision. I'm eager to learn and explore these fields, and I'm open to connecting with others who share similar interests. Let's learn and grow together! 😊
