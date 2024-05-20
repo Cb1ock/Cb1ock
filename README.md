@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Contact Me
 
-- ✉️ Email: <ch3197@qq.com> / <chenghao@mail.hfut.edu.cn>
+- ✉️ Email: <ch3197@qq.com> / <chenghao@mail.hfut.edu.cn> / <chhao.hfut@gmail.com>
 
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cb1ock&show_icons=true&theme=transparent&count_private=true&include_all_commits=True)
 
