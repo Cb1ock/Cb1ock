@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👤 Name: Cheng Hao
 - 📚 Student: Passionate about Deep Learning and Research
-- 🎓 Academic Focus: Computer Vision and Multimodal Emotion Recognition
+- 🎓 Academic Focus: Multimodal Representation Learning and Multimodal Emotion Recognition
 
 ## Contact Me
 
