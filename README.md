@@ -5,7 +5,7 @@
 - 👤 Name: Cheng Hao
 - 📚 Student: Passionate about Deep Learning and Research
 - 🎓 Academic Focus: Multimodal Representation Learning and Multimodal Emotion Recognition
-- 💼 Currently intern at Zhipu AI on Audio Large Language Models, focusing on ASR (Automatic Speech Recognition) and VAD (Voice Activity Detection)
+- 💼 Currently an intern at Zhipu AI on Audio Large Language Models, focusing on ASR (Automatic Speech Recognition) and VAD (Voice Activity Detection)
 
 ## Contact Me
 
