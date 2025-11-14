@@ -15,8 +15,7 @@
 
 ## Resume
 
-You are welcome to check out my resume (PDF can be embedded or linked here).  
-👉 Send me the PDF or a public link if you want me to generate an embedded preview.
+You are welcome to check out my resume [(Cheng Hao Resume)](https://github.com/Cb1ock/Cb1ock/blob/main/ChengHao_Resume.pdf).  
 
 ## Contact Me
 
