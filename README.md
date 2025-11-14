@@ -2,14 +2,28 @@
 
 ## About Me
 
-- 👤 Name: Cheng Hao
-- 📚 Student: Passionate about Deep Learning and Research
-- 🎓 Academic Focus: Multimodal Representation Learning and Multimodal Emotion Recognition
-- 💼 Currently an intern at Zhipu AI on Audio Large Language Models, focusing on ASR (Automatic Speech Recognition) and VAD (Voice Activity Detection)
+- 👤 **Name:** Cheng Hao  
+- 🎓 **Education:** Third-year Master’s student at **Hefei University of Technology (HFUT)**  
+- 🔍 **Research Background:** Experienced in **Audio-Visual Event Classification** and **Multimodal Representation Learning**  
+- 💼 **Current Internship:** **Zhipu AI** — working on **Speech Large Language Models**, focusing on:  
+  - **ASR** (Automatic Speech Recognition)  
+  - **VAD** (Voice Activity Detection)  
+- 🎯 **Research Interests:** Speech LLMs, Audio Understanding, Multimodal Learning  
+- 🚀 **Current Goals:**  
+  - Applying for **2026 Fall PhD positions** (Speech / Multimodal AI / Human–Computer Interaction)
+  - Seeking **2026 fall full-time positions** related to **Multimodal / Audio Large Language Models**
+
+## Resume
+
+You are welcome to check out my resume (PDF can be embedded or linked here).  
+👉 Send me the PDF or a public link if you want me to generate an embedded preview.
 
 ## Contact Me
 
-- ✉️ Email: <ch3197@qq.com> / <chenghao@mail.hfut.edu.cn> / <chhao.hfut@gmail.com>
+- ✉️ **Email:**  
+  - ch3197@qq.com  
+  - chenghao@mail.hfut.edu.cn  
+  - chhao.hfut@gmail.com  
 
 <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=90198143" target="_blank" style="display: block" align="center">
   <picture>
