@@ -15,7 +15,7 @@
 
 ## Resume
 
-You are welcome to check out my resume [(Cheng Hao Resume)](https://github.com/Cb1ock/Cb1ock/blob/main/ChengHao_Resume.pdf).  
+You are welcome to check out my resume [Cheng Hao Resume](https://github.com/Cb1ock/Cb1ock/blob/main/ChengHao_Resume.pdf).  
 
 ## Contact Me
 
