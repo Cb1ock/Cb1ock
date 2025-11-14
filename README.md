@@ -5,7 +5,7 @@
 - 👤 **Name:** Cheng Hao  
 - 🎓 **Education:** Third-year Master’s student at **Hefei University of Technology (HFUT)**  
 - 🔍 **Research Background:** Experienced in **Audio-Visual Event Classification** and **Multimodal Representation Learning**  
-- 💼 **Current Internship:** **Zhipu AI** — working on **Speech Large Language Models**, focusing on:  
+- 💼 **Former Internship:** **Zhipu AI** — working on **Speech Large Language Models**, focusing on:  
   - **ASR** (Automatic Speech Recognition)  
   - **VAD** (Voice Activity Detection)  
 - 🎯 **Research Interests:** Speech LLMs, Audio Understanding, Multimodal Learning  
