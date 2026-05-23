@@ -3,15 +3,16 @@
 ## About Me
 
 - 👤 **Name:** Cheng Hao  
-- 🎓 **Education:** Third-year Master’s student at **Hefei University of Technology (HFUT)**  
-- 🔍 **Research Background:** Experienced in **Audio-Visual Event Classification** and **Multimodal Representation Learning**  
-- 💼 **Former Internship:** **Zhipu AI** — working on **Speech Large Language Models**, focusing on:  
-  - **ASR** (Automatic Speech Recognition)  
-  - **VAD** (Voice Activity Detection)  
-- 🎯 **Research Interests:** Speech LLMs, Audio Understanding, Multimodal Learning  
-- 🚀 **Current Goals:**  
-  - Applying for **2026 Fall PhD positions** (Speech / Multimodal AI / Human–Computer Interaction)
-  - Seeking **2026 fall full-time positions** related to **Multimodal / Audio Large Language Models**
+- 🎓 **Education:** Master’s student at **Hefei University of Technology (HFUT)**
+- 💼 **Current Position:** ASR Model Researcher / Engineer at **Shanghai Mosi Intelligence** built upon on the **Shanghai Innovation Institute**.
+- 🔬 **Current Work:** Responsible for the research and development of the company’s **ASR models**, focusing on:
+  - **Automatic Speech Recognition (ASR)**
+  - **Speech Large Language Models**
+- 💼 **Former Internship:** **Zhipu AI** — worked on **Speech Large Language Models**.
+- 🎯 **Research Interests:** Speech LLMs, ASR, Audio Understanding, Multimodal Learning  
+- 🚀 **Current Goals:**
+  - ~Applying for **2026 Fall PhD positions** (Speech / Multimodal AI / Human–Computer Interaction)~
+  - [x] Seeking **2026 fall full-time positions** related to **Multimodal / Audio Large Language Models**
 
 ## Resume
 
