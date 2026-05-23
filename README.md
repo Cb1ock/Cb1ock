@@ -14,9 +14,9 @@
   - ~Applying for **2026 Fall PhD positions** (Speech / Multimodal AI / Human–Computer Interaction)~
   - [x] Seeking **2026 fall full-time positions** related to **Multimodal / Audio Large Language Models**
 
-## Resume
+<!--## Resume
 
-You are welcome to check out my resume [Cheng Hao Resume](https://github.com/Cb1ock/Cb1ock/blob/main/ChengHao_Resume.pdf).  
+You are welcome to check out my resume [Cheng Hao Resume](https://github.com/Cb1ock/Cb1ock/blob/main/ChengHao_Resume.pdf). -->
 
 ## Contact Me
 
